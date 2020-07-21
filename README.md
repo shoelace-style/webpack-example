@@ -22,4 +22,4 @@ To start a local server for testing:
 npx http-server
 ```
 
-Then open a browser at the URL shown and navigate to the `dist` directory.
+Then open a browser at the URL shown.
