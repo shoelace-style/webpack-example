@@ -1,6 +1,6 @@
-# Shoelace Webpack Example
+# Shoelace webpack Example
 
-A base setup that demonstrates how to import Shoelace components with Webpack.
+A base setup that demonstrates how to import Shoelace components with webpack.
 
 THIS REPO IS A WORK IN PROGRESS!
 

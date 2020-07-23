@@ -1,7 +1,7 @@
 {
   "name": "@shoelace-style/webpack-example",
   "version": "1.0.0",
-  "description": "A base setup that demonstrates how to import Shoelace components with Webpack.",
+  "description": "A base setup that demonstrates how to import Shoelace components with webpack.",
   "dependencies": {
     "@stencil/core": "^1.17.0-0"
   },
