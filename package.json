@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "A base setup that demonstrates how to import Shoelace components with webpack.",
   "dependencies": {
-    "@stencil/core": "^1.17.0-0"
+    "@shoelace-style/shoelace": "^2.0.0-beta.7"
   },
   "devDependencies": {
-    "@shoelace-style/shoelace": "^2.0.0-beta.7",
+    "@stencil/core": "^1.17.0-0",
     "copy-webpack-plugin": "^6.0.3",
     "css-loader": "^3.6.0",
     "style-loader": "^1.2.1",
