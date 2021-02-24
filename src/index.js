@@ -13,3 +13,5 @@ import SlRating from '@shoelace-style/shoelace/dist/components/rating/rating';
 
 // Set the pase path to the folder you copied Shoelace's assets to
 setBasePath('/assets');
+
+// <sl-button>, <sl-icon>, <sl-input>, and <sl-rating> are ready to use!
