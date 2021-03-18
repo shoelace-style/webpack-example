@@ -8,11 +8,6 @@ module.exports = {
     filename: 'main.js',
     path: path.resolve(__dirname, 'dist')
   },
-  // Important! You must set this for treeshaking to work properly
-  // More info: https://webpack.js.org/configuration/optimization/#optimizationsideeffects
-  optimization: {
-    sideEffects: true,
-  },
   module: {
     // Bundle styles into main.css
     rules: [
