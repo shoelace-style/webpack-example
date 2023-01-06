@@ -1,4 +1,4 @@
-import '@shoelace-style/shoelace/dist/themes/base.css';
+import '@shoelace-style/shoelace/dist/themes/light.css';
 import SlButton from '@shoelace-style/shoelace/dist/components/button/button.js';
 import SlIcon from '@shoelace-style/shoelace/dist/components/icon/icon.js';
 import SlInput from '@shoelace-style/shoelace/dist/components/input/input.js';
